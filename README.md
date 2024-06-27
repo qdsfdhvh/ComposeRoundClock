@@ -1,3 +1,3 @@
 # ComposeRoundClock
 
-![Clock Video](res/play.mp4)
+![Clock Video](res/play.gif)
